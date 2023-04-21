@@ -21,7 +21,7 @@ Mobile view
 ![mobile preview screenshot](https://user-images.githubusercontent.com/114834493/233250271-4198bef2-cc2a-4994-9134-de7323d8a199.png)
 ### Links
 - Solution URL: https://Bukkas/Bukkas-QR-code-component-challenge (github.com)
-- Live Site URL: 
+- Live Site URL: https://bukkas.github.io/QR-code-component-coding-challenge/
 ## My process
 ### Built with
 - Semantic HTML5 markup
